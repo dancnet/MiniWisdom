@@ -1,0 +1,14 @@
+.ql-editor img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+.ql-editor p {
+    text-indent: 2em;
+    font-family: 'Karla', sans-serif;
+    font-size: 1.2em;
+}
+input:placeholder-shown {
+    font-style: italic;
+}
